@@ -1,0 +1,11 @@
+/* @font-face {
+    font-family: 'myFirstFont';
+    src: url('./SansationLight.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+} */
+
+.hello {
+    color: red;
+    /* background: url('./assets/img/Wei_Emoji.gif') top left no-repeat; */
+}
