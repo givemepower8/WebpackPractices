@@ -1,3 +1,3 @@
-# Webpack4 Guides
+# Webpack 4 Guides
 
-Following the examples in Webpack4 [Guides](https://webpack.js.org/guides/).
+Following the examples in Webpack 4 [Guides](https://webpack.js.org/guides/).
