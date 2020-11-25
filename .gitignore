@@ -63,3 +63,4 @@ typings/
 # the build
 # dist/
 *.sqlite
+/.vs
